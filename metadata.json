@@ -1,0 +1,7 @@
+{
+  "name": "中药智造 AI 排产系统",
+  "description": "面向中药制造的智能排产系统。具备可视化物料分析、基于约束的优化排程以及自动生成符合GMP规范的生产卡功能。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
