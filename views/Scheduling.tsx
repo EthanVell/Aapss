@@ -252,7 +252,7 @@ const Scheduling: React.FC<SchedulingProps> = ({ onPlanConfirmed }) => {
             </div>
             <h3 className="text-2xl font-bold text-slate-900 mb-2">步骤 3: 智能排产计算</h3>
             <p className="text-slate-500 max-w-md mb-8 text-center">
-              Gemini 引擎正在基于遗传算法与强化学习策略，生成多种最优排产方案供您决策。
+              AI 引擎正在基于遗传算法与强化学习策略，生成多种最优排产方案供您决策。
             </p>
 
             {plans.length === 0 ? (
